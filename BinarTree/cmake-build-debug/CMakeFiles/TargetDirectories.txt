@@ -1,3 +1,0 @@
-/Users/kristinavorobyeva06/CLionProjects/BinarTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/kristinavorobyeva06/CLionProjects/BinarTree/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kristinavorobyeva06/CLionProjects/BinarTree/cmake-build-debug/CMakeFiles/BinarTree.dir
